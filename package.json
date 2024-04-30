@@ -2,6 +2,10 @@
   "name": "macbookutils",
   "displayName": "MacBook Utils",
   "description": "Useful MacBook things!",
+  "publisher": "emild",
+  "repository": {
+    "type": "git",
+    "url": ""},
   "version": "1.0.1",
   "engines": {
     "vscode": "^1.88.0"
