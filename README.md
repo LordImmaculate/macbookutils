@@ -1,1 +1,2 @@
-very epic extension
+# MacBook Utils
+This extension will add some neat controls to your touchbar, based on which file you are editing! But this is not all, it will also add buttons that are always visible, suck as format code. You can configure which buttons you want to use. If you would like to see more buttons, create an issue.
